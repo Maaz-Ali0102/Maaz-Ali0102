@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maaz-Ali0102
-- 👀 I’m interested in ... coding and graphic desgining
-- 🌱 I’m currently learning ... coding in java and pyton
+- 👀 I’m interested in many things but coding is at top
+- 🌱 I’m currently learning ... coding in java and C++
 - 💞️ I’m looking to collaborate on ...anyting
 - 📫 How to reach me ...maazali0102@gmail.com
 
